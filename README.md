@@ -30,7 +30,7 @@ sistema-banco/
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/edukaique-06/sistema-bancario.git](https://github.com/edukaique-06/sistema-bancario.git)
+   git clone https://github.com/edukaique-06/sistema-bancario.git
    cd sistema-bancario
    ```
 
