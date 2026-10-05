@@ -1,4 +1,4 @@
-# sistema-bancario# 🏦 Sistema Bancário Modular com Filas e SQLite
+# 🏦 Sistema Bancário Modular com Filas e SQLite
 
 Sistema de gestão de atendimento bancário desenvolvido em Python, integrando estruturas de dados em memória para controle de filas e persistência relacional com SQLite.
 
