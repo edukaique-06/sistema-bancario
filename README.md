@@ -30,8 +30,8 @@ sistema-banco/
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-   cd NOME_DO_REPOSITORIO
+   git clone [https://github.com/edukaique-06/sistema-bancario.git](https://github.com/edukaique-06/sistema-bancario.git)
+   cd sistema-bancario
    ```
 
 2. Execute o sistema principal:
